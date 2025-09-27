@@ -4,10 +4,10 @@ use Illuminate\Support\Facades\Route;
 
 
 
-// Route لإضافة / تعديل / حذف المنتجات بدون auth (مؤقتًا)
+
 Route::apiResource('products', App\Http\Controllers\ProductController::class);
 
-// باقي الـ APIs محمية بالـ auth:sanctum
+
 
     Route::apiResource('roles', App\Http\Controllers\RoleController::class);
     Route::apiResource('users', App\Http\Controllers\UserController::class);
