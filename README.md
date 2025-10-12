@@ -67,7 +67,7 @@ The system supports role-based access control (Roles & Policies), shopping carts
 ## 📘 API Documentation
 All API endpoints are documented in a separate file:  
 [API Documentation](./API_DOCUMENTATION.md)
-
+TechStore_Full_API.postman_collection.json  TechStore_API_AllEndpoints.postman_collection.json
 ---
 
 ## 6. Policies
