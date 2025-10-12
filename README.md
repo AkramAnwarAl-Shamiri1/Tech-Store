@@ -66,8 +66,8 @@ The system supports role-based access control (Roles & Policies), shopping carts
 
 ## 📘 API Documentation
 All API endpoints are documented in a separate file:  
-(./API_DOCUMENTATION.md)
-(./API_POSTMAN.md)
+[API Documentation](./API_DOCUMENTATION.md)
+[API Documentation](./API_POSTMAN.md)
 
 ---
 
